@@ -1,0 +1,17 @@
+html {
+  font-size: 10px;
+}
+
+.posts-cards {
+  gap: 2rem;
+}
+
+.card {
+  width: 24.5rem;
+}
+
+@media (min-width: 1200px) {
+  html {
+    font-size: 0.92vw;
+  }
+}
